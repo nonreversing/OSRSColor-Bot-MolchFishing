@@ -1,5 +1,7 @@
 # OSRSColor-Bot-MolchFishing
 
+Automates Molch Island fishing.
+
 Pre-check: Download "src/images/bot/items" and drop it in your main OSRS-Bot-Color folder -> overwrite.
 
 Add the line: "from .molchbot import OSRSMolchBot" into your init.py file in ./src/model/OSRS.
